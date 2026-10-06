@@ -1,0 +1,6 @@
+{
+  "name": "NyayaPath",
+  "description": "Understand your rights. Find your way forward. From legal confusion to the right path.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
